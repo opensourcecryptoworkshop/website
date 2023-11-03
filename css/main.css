@@ -1,0 +1,8 @@
+picture {
+ object-fit: scale-down;
+}
+img {
+}
+#logo a picture img {
+	height: 384px;
+}
