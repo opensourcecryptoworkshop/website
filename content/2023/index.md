@@ -10,7 +10,6 @@ resources:
 ---
 
 The 2023 workshop is concluded.
-The <a href="/2024/">2024 workshop details will be announced soon</a>.
 
 ## Schedule
 The archived schedule is available from [the Google event page](https://rsvp.withgoogle.com/events/open-source-cryptography-workshop).
