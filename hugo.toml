@@ -1,0 +1,7 @@
+baseURL = 'https://opensourcecryptowork.shop/'
+languageCode = 'en-us'
+title = 'Open Source Cryptography Workshop'
+theme = 'relearn'
+
+[params]
+  themeVariant = [ "blue" ]
