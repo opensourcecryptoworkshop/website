@@ -9,10 +9,10 @@ resources:
 - src: "*.pdf"
 ---
 
-The 2023 workshop is concluded.
+The 2023 workshop took place on 30 March 2023 in Tokyo, Japan.
 
 ## Schedule
-The archived schedule is available from the [Google event page](https://rsvp.withgoogle.com/events/open-source-cryptography-workshop).
+The schedule is available on the [Google event page](https://rsvp.withgoogle.com/events/open-source-cryptography-workshop).
 
 ## Archived Talks
 - [Workshop Opening Remarks](<OSS Workshop Opening.pdf>)
