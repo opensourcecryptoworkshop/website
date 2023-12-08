@@ -12,10 +12,9 @@ resources:
 The 2023 workshop is concluded.
 
 ## Schedule
-The archived schedule is available from [the Google event page](https://rsvp.withgoogle.com/events/open-source-cryptography-workshop).
+The archived schedule is available from the [Google event page](https://rsvp.withgoogle.com/events/open-source-cryptography-workshop).
 
 ## Archived Talks
-
 - [Workshop Opening Remarks](<OSS Workshop Opening.pdf>)
 - [Using Open Source Crypto](<OSS Pain Points.pdf>)
 - [Make it Memory Safe: Adapting Curl to use Rustls](Rustls.pdf) [[Video](https://insufficient.coffee/2023/03/30/opensource-crypto-workshop-rustls-ffi/)]
@@ -23,6 +22,6 @@ The archived schedule is available from [the Google event page](https://rsvp.wit
 - [Implementing Oblivious HTTP in Firefox](<Implementing Oblivious HTTP in Firefox.pdf>)
 - [Live Hacking: Finding Real World Crypto Bugs in Open Source Software](<Fantastic Crypto Bugs and Where to Find Them.pdf>)
 
-## 2023 Workshop Organizers
+## 2023 Organizers
 - Thyla van der Merwe, <em>Google</em>
 - [J.C. Jones](https://insufficient.coffee/), <em>Internet Security Research Group (Let's Encrypt)</em>

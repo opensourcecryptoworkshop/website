@@ -15,6 +15,6 @@ The Open Source Cryptography Workshop seeks to bring together practicioners inte
 
 # Workshops
 
-The [2023 workshop](/2023) is concluded.
+The [2024 workshop](/2024) is being developed. We've called for proposed topics.
 
-The [2024 workshop information](/2024) is being developed, and we've called for proposed topics.
+The [2023 workshop](/2023) is concluded.
