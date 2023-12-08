@@ -1,6 +1,6 @@
 ---
 description: 'Workshop information in Tokyo, Japan'
-title: '2023 Workshop: Tokyo, Japan'
+title: 'OSCW 2023: Tokyo, Japan'
 weight: 51
 resources:
 - src: 'Rustls.pdf'
