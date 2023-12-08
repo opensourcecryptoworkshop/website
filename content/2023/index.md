@@ -10,7 +10,7 @@ resources:
 - src: "*.pdf"
 ---
 
-The 2023 workshop took place on 30 March 2023 in Tokyo, Japan.
+OSCW 2023 took place on 30 March 2023 in Tokyo, Japan.
 
 ## Schedule
 The schedule is available on the [Google event page](https://rsvp.withgoogle.com/events/open-source-cryptography-workshop).
@@ -23,6 +23,6 @@ The schedule is available on the [Google event page](https://rsvp.withgoogle.com
 - [Implementing Oblivious HTTP in Firefox](<Implementing Oblivious HTTP in Firefox.pdf>)
 - [Live Hacking: Finding Real World Crypto Bugs in Open Source Software](<Fantastic Crypto Bugs and Where to Find Them.pdf>)
 
-## 2023 Organizers
+## Organizers
 - Thyla van der Merwe, <em>Google</em>
 - [J.C. Jones](https://insufficient.coffee/), <em>Internet Security Research Group (Let's Encrypt)</em>
