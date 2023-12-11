@@ -26,3 +26,7 @@ The schedule is available on the [Google event page](https://rsvp.withgoogle.com
 ## Organizers
 - Thyla van der Merwe, <em>Google</em>
 - [J.C. Jones](https://insufficient.coffee/), <em>Internet Security Research Group (Let's Encrypt)</em>
+
+## Sponsors
+
+OSCW 2023 was made possible by the support from our sponsor: [Google](https://www.google.com/).
