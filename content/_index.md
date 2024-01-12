@@ -15,7 +15,7 @@ The Open Source Cryptography Workshop (OSCW) seeks to bring together practitione
 
 # OSCW 2024
 
-We've [called for proposed topics](https://docs.google.com/forms/d/e/1FAIpQLSdEM03uFOmFZXkBcfEQNYTcsEGhUacig0xxrzUDuWx5bEYk6Q/viewform?usp=sf_link) for [OSCW 2024](/2024).
+We plan to open registration for [OSCW 2024](/2024) at the beginning of Februrary 2024.
 
 # Past OSCW
 
