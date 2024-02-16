@@ -12,6 +12,9 @@ resources:
 
 OSCW 2023 took place on 30 March 2023 in Tokyo, Japan.
 
+![2023 Logo](/logos/oscw2023.1024.png?width=20vw "Open Source Cryptography Workshop 2023")
+
+
 ## Schedule
 The schedule is available on the [Google event page](https://rsvp.withgoogle.com/events/open-source-cryptography-workshop).
 
