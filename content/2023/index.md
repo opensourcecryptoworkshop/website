@@ -10,10 +10,10 @@ resources:
 - src: "*.pdf"
 ---
 
-OSCW 2023 took place on 30 March 2023 in Tokyo, Japan.
+OSCW 2023 took place after [Real World Crypto](https://rwc.iacr.org/2023/) on 30 March 2023 at the [Plaza Heisei](https://www.jasso.go.jp/en/ryugaku/kyoten/tiec/plazaheisei/index.html) in Tokyo, Japan.
 
 ## Schedule
-The schedule is available on the [Google event page](https://rsvp.withgoogle.com/events/open-source-cryptography-workshop).
+Available on the [Google event page](https://rsvp.withgoogle.com/events/open-source-cryptography-workshop).
 
 ## Archived Talks
 - [Workshop Opening Remarks](<OSS Workshop Opening.pdf>)
@@ -28,5 +28,4 @@ The schedule is available on the [Google event page](https://rsvp.withgoogle.com
 - [J.C. Jones](https://insufficient.coffee/), <em>Internet Security Research Group (Let's Encrypt)</em>
 
 ## Sponsors
-
-OSCW 2023 was made possible by the support from our sponsor: [Google](https://www.google.com/).
+<em>Google</em>
