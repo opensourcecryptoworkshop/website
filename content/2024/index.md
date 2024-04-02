@@ -29,7 +29,7 @@ All content archived here is licensed with the [Attribution-NonCommercial-NoDeri
 | 15:20 - 15:50 | *Deploying 2-Party ECDSA Signatures in the Wild* | Iraklis Leontiadis (he/him) | [[video](https://archive.org/details/oscw-2024-iraklis-liontiadis-2-party-ecdsa-signatures)] [[slides](<2MPC ECDSA.pdf>)] |
 | 15:50 - 16:00 | Break | |
 | 16:00 - 16:30 | *Building dee: An Interoperable Timelock Client* | Thibault Meunier (he/him) | [[slides](<building-dee.pdf>)] |
-| 16:30 - 17:00 | *Implementing X.509 Path Validation for Python* | William Woodruff (he/him) | [[slides](<Implementing X.509 Path Validation for Python.pdf>)] |
+| 16:30 - 17:00 | *Implementing X.509 Path Validation for Python* | William Woodruff (he/him) | [[video](https://archive.org/details/oscw-2024-william-woodruff-x-509-path-validation-in-python)] [[slides](<Implementing X.509 Path Validation for Python.pdf>)] |
 
 Note: **ⁱ** denotes an Interactive or Workshop Session
 
