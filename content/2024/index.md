@@ -21,7 +21,7 @@ All content archived here is licensed with the [Attribution-NonCommercial-NoDeri
 | 10:35 - 11:05 | *Key Rotation Done Right: How to Improve Your Security Posture and Migrate to PQC in One Go* | Sophie Schmieg (she/her) |
 | 11:05 - 11:35 | *Lessons from Designing a KEM Primitive* | Fernando Lobato (he/him) | [[video](https://archive.org/details/oscw-2024-fernando-lobato-friendly-kems)] [[slides](<KEM in Tink.pdf>)] |
 | 11:35 - 12:25 | Lunch (provided) | |
-| 12:25 - 13:25 | *OpenMLS: Secure and Efficient Group Messaging Using Rust* **ⁱ** | Konrad Kohbrok (he/him) and Raphael Robert (he/him) | [[resource](https://github.com/openmls/oscw24)] [[slides](<OpenMLS - A guided tour.pdf>)] |
+| 12:25 - 13:25 | *OpenMLS: Secure and Efficient Group Messaging Using Rust* **ⁱ** | Konrad Kohbrok (he/him) and Raphael Robert (he/him) | [[resource](https://github.com/openmls/oscw24)] [[video](https://archive.org/details/oscw-2024-konrad-kohbrok-and-raphael-robert-openmls)] [[slides](<OpenMLS - A guided tour.pdf>)] |
 | 13:25 - 14:10 | *Test Vector Libraries* **ⁱ** | Filippo Valsorda (he/him) | [[video](https://archive.org/details/oscw-2024-fillippo-valsorda-cryptographic-test-vectors)] |
 | 14:10 - 14:20 | Break | |
 | 14:20 - 14:50 | *All Things PQ: End-to-End PQ-Secure Fido2 Protocol* | Nina Bindel (she/her) | [[slides](<E2E PQC FIDO2.pdf>)] |
