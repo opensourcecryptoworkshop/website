@@ -11,7 +11,7 @@ OSCW 2024 took place after [Real World Crypto](https://rwc.iacr.org/2024/) on 28
 
 ## Archived Talks
 
-All content archived here is licensed with the [Attribution-NonCommercial-NoDerivs 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) Creative Commons License, unless otherwise specified.
+All content archived here is licensed under the Creative Commons [BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) License, unless otherwise specified.
 
 | Time | Session Title | Session Leader | Content |
 | - | - | - | - |
