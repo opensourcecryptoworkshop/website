@@ -18,7 +18,7 @@ All content archived here is licensed under the Creative Commons [BY-NC-ND 4.0](
 | 9:00 - 9:20 | Registration and Coffee (provided) | |
 | 9:20 - 10:05 | *Cryptography with Formal Guarantees using Hax* **ⁱ** | Franziskus Kiefer (he/him) | [[resource](https://github.com/hacspec/hax/tree/franziskus/toronto-2024/examples#before-the-workshop)] [[video](https://archive.org/details/oscw-2024-franziskus-kiefer-hax)] [[slides](<Cryptography with Formal Guarantees using Hax.pdf>)] |
 | 10:05 - 10:35 | *Going Post-Quantum* | Deirdre Connolly (she/her) | [[video](https://archive.org/details/oscw-2024-deirdre-connolly-going-post-quantum)] [[slides](<Going Post-Quantum.pdf>)]
-| 10:35 - 11:05 | *Key Rotation Done Right: How to Improve Your Security Posture and Migrate to PQC in One Go* | Sophie Schmieg (she/her) |
+| 10:35 - 11:05 | *Key Rotation Done Right: How to Improve Your Security Posture and Migrate to PQC in One Go* | Sophie Schmieg (she/her) | [[video](https://archive.org/details/oscw-2024-sophie-schmieg-key-rotation-done-right)] [[slides](<keyrotation.pdf>)]
 | 11:05 - 11:35 | *Lessons from Designing a KEM Primitive* | Fernando Lobato (he/him) | [[video](https://archive.org/details/oscw-2024-fernando-lobato-friendly-kems)] [[slides](<KEM in Tink.pdf>)] |
 | 11:35 - 12:25 | Lunch (provided) | |
 | 12:25 - 13:25 | *OpenMLS: Secure and Efficient Group Messaging Using Rust* **ⁱ** | Konrad Kohbrok (he/him) and Raphael Robert (he/him) | [[resource](https://github.com/openmls/oscw24)] [[video](https://archive.org/details/oscw-2024-konrad-kohbrok-and-raphael-robert-openmls)] [[slides](<OpenMLS - A guided tour.pdf>)] |
