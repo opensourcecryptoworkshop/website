@@ -1,7 +1,7 @@
 +++
-title = 'OSCW 2024: Toronto, Canada'
-weight = 50
-description = "OSCW 2024 took place after Real World Crypto on 28 March 2024 at the University of Toronto Chestnut Conference Center in Toronto, Canada."
+title = "OSCW 2024: Toronto, Canada"
+description = "OSCW 2024 took place after Real World Crypto on 28 March 2024 in Toronto, Canada."
+weight = 49
 
 [[resources]]
 	src = "*.pdf"
@@ -38,11 +38,14 @@ Note: **ⁱ** denotes an Interactive or Workshop Session
 [Photographs are available on Flickr](https://www.flickr.com/photos/opensourcecryptoworkshop/albums/72177720315955409/).
 
 ## Organizers
-- [Cindy Lin](https://cindylindeed.github.io/), <em>Google</em>
-- [J.C. Jones](https://insufficient.coffee/), <em>Internet Security Research Group (Let's Encrypt)</em>
+
+- [Cindy Lin](https://cindylindeed.github.io/), *Google*
+- [J.C. Jones](https://insufficient.coffee/), *Internet Security Research Group (Let's Encrypt)*
 
 ## Code of Conduct
+
 All participants are expected to adhere to our [Community Guidelines](https://developers.google.com/community-guidelines). The event organizers will be available to address any Community Guideline breaches and may be reached at [organizers@oscwork.shop](mailto:organizers@oscwork.shop).
 
 ## Sponsors
-<em>Google</em>
+
+*Google*

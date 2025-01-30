@@ -1,7 +1,7 @@
 +++
-title = 'OSCW 2025: Sofia, Bulgaria'
-weight = 49
-description = "OSCW 2025 will take place before Real World Crypto on 24 March 2025 in Sofia, Bulgaria."
+title = "OSCW 2025: Sofia, Bulgaria"
+description = "OSCW 2025 will take place before Real World Crypto on 25 March 2025 in Sofia, Bulgaria."
+weight = 48
 +++
 
 OSCW 2025 will take place before [Real World Crypto](https://rwc.iacr.org/2025/) on 25 March 2025 in Sofia, Bulgaria.
