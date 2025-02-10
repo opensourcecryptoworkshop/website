@@ -6,9 +6,17 @@ weight = 48
 
 OSCW 2025 will take place before [Real World Crypto](https://rwc.iacr.org/2025/) on 25 March 2025 in Sofia, Bulgaria.
 
-RSVP to the event via [this form](https://rsvp.withgoogle.com/events/oscw-2025).
+## RSVP
+
+[RSVP to the event](https://rsvp.withgoogle.com/events/oscw-2025).
+
+## Submit a Talk
 
 Apply to give a talk via [this form](https://forms.gle/JXV5dyHtZye7vDZt5).
+
+The organizers will be in touch within 2 weeks of your submission. Stipends for speakers are available.
+
+Submissions are due 24 February 2025.
 
 ## Organizers
 
