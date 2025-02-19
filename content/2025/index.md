@@ -22,6 +22,7 @@ Submissions are due 24 February 2025.
 
 - [Cindy Lin](https://cindylindeed.github.io/), *Google*
 - Ioana Nedelcu, *Google*
+- Anna Weine, *Mozilla*
 
 ## Code of Conduct
 
