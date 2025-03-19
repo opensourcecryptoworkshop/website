@@ -4,7 +4,7 @@ description = "OSCW 2025 will take place before Real World Crypto on 25 March 20
 weight = 48
 +++
 
-OSCW 2025 will take place before Real World Crypto on 25 March 2025 at the Hilton Sofia (g.k. Lozenets, Bulgaria Blvd 1, 1421 Sofia, Bulgaria) in Sofia, Bulgaria.
+OSCW 2025 will take place before Real World Crypto on 25 March 2025 at the **Hilton Sofia** (g.k. Lozenets, Bulgaria Blvd 1, 1421 Sofia, Bulgaria) in Sofia, Bulgaria.
 
 ## RSVP
 
