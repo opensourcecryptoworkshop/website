@@ -4,7 +4,7 @@ description = "OSCW 2025 will take place before Real World Crypto on 25 March 20
 weight = 48
 +++
 
-OSCW 2025 will take place before Real World Crypto on 25 March 2025 at the [**Hilton Sofia**](https://maps.app.goo.gl/shxnwsyo2KB5o9jS7) in Sofia, Bulgaria.
+OSCW 2025 will take place before [Real World Crypto](https://rwc.iacr.org/2025/) on 25 March 2025 at the [**Hilton Sofia**](https://maps.app.goo.gl/shxnwsyo2KB5o9jS7) in Sofia, Bulgaria.
 
 ## RSVP
 
@@ -16,7 +16,7 @@ OSCW 2025 will take place before Real World Crypto on 25 March 2025 at the [**Hi
 | - | - | - | - |
 | 9:30 - 9:50 | Registration and Coffee (provided) | |
 | 9:50 - 10:00 | Welcome | |
-| 10:00 - 10:45 | *Cryptographic Specifications and Open Source Implementations* | Filippo Valsorda (he/him) | | 
+| 10:00 - 10:45 | *Cryptographic Specifications and Open Source Implementations* **ⁱ** | Filippo Valsorda (he/him) | |
 | 10:45 - 11:30 | *Shufflecake: Plausible Deniability in 2025* | Tommaso Gagliardoni (he/him) | | 
 | 11:30 - 11:45 | Coffee and Break | | 
 | 11:45 - 12:15 | *Core Dump Protection in Tink* | Thomas Holenstein (he/him) | |
