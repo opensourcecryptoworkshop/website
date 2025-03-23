@@ -72,6 +72,8 @@ Victor is a hacker and software engineer from Seattle, WA, USA with interests in
 
 ![](/images/red_panda.jpg)
 
+Filippo is a cryptography engineer and professional open source maintainer. He maintains the cryptography standard library of the Go programming language. He's been the lead of the Go Security team at Google until 2022, and was on the Cryptography team at Cloudflare until 2017.
+
 
 ### Lukas Zobernig
 
