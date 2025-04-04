@@ -1,16 +1,12 @@
 +++
 title = "OSCW 2025: Sofia, Bulgaria"
-description = "OSCW 2025 will take place before [Real World Crypto](https://rwc.iacr.org/2025/) on 25 March 2025 at the [Hilton Sofia](https://maps.app.goo.gl/shxnwsyo2KB5o9jS7) in Sofia, Bulgaria."
+description = "OSCW 2025 took place before [Real World Crypto](https://rwc.iacr.org/2025/) on 25 March 2025 at the [Hilton Sofia](https://maps.app.goo.gl/shxnwsyo2KB5o9jS7) in Sofia, Bulgaria."
 weight = 48
 +++
 
-OSCW 2025 will take place before [Real World Crypto](https://rwc.iacr.org/2025/) on 25 March 2025 at the [**Hilton Sofia**](https://maps.app.goo.gl/shxnwsyo2KB5o9jS7) in Sofia, Bulgaria.
+OSCW 2025 took place before [Real World Crypto](https://rwc.iacr.org/2025/) on 25 March 2025 at the [**Hilton Sofia**](https://maps.app.goo.gl/shxnwsyo2KB5o9jS7) in Sofia, Bulgaria.
 
-## RSVP
-
-[RSVP to the event](https://rsvp.withgoogle.com/events/oscw-2025).
-
-## Schedule
+## Archived Schedule
 
 | Time | Session Title | Session Leader | Content |
 | - | - | - | - |
