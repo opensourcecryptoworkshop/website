@@ -1,10 +1,10 @@
 +++
 title = "OSCW 2025: Sofia, Bulgaria"
-description = "OSCW 2025 took place before [Real World Crypto](https://rwc.iacr.org/2025/) on 25 March 2025 at the [Hilton Sofia](https://maps.app.goo.gl/shxnwsyo2KB5o9jS7) in Sofia, Bulgaria."
+description = "OSCW 2025 took place before Real World Crypto on 25 March 2025 in Sofia, Bulgaria."
 weight = 48
 +++
 
-OSCW 2025 took place before [Real World Crypto](https://rwc.iacr.org/2025/) on 25 March 2025 at the [**Hilton Sofia**](https://maps.app.goo.gl/shxnwsyo2KB5o9jS7) in Sofia, Bulgaria.
+OSCW 2025 took place before [Real World Crypto](https://rwc.iacr.org/2025/) on 25 March 2025 at the [Hilton](https://maps.app.goo.gl/shxnwsyo2KB5o9jS7) in Sofia, Bulgaria.
 
 ## Archived Schedule
 
@@ -12,16 +12,16 @@ OSCW 2025 took place before [Real World Crypto](https://rwc.iacr.org/2025/) on 2
 | - | - | - | - |
 | 9:30 - 9:50 | Registration and Coffee (provided) | |
 | 9:50 - 10:00 | Welcome | |
-| 10:00 - 10:45 | *Cryptographic Specifications and Open Source Implementations* **ⁱ** | [**Filippo Valsorda**](/2025/#filippo-valsorda) (he/him) | |
-| 10:45 - 11:30 | *Shufflecake: Plausible Deniability in 2025* | [**Tommaso Gagliardoni**](/2025/#tommaso-gagliardoni) (he/him) | |
+| 10:00 - 10:45 | *Cryptographic Specifications and Open Source Implementations* **ⁱ** | [Filippo Valsorda](/2025/#filippo-valsorda) (he/him) | |
+| 10:45 - 11:30 | *Shufflecake: Plausible Deniability in 2025* | [Tommaso Gagliardoni](/2025/#tommaso-gagliardoni) (he/him) | |
 | 11:30 - 11:45 | Break | |
-| 11:45 - 12:15 | *Core Dump Protection in Tink* | [**Thomas Holenstein**](/2025/#thomas-holenstein) (he/him) | |
-| 12:15 - 12:45 | *Lessons learned from Integrating Lox Anonymous Credentials into Tor* | [**Lindsey Tulloch**](/2025/#lindsey-tulloch) (she/her) | |
+| 11:45 - 12:15 | *Core Dump Protection in Tink* | [Thomas Holenstein](/2025/#thomas-holenstein) (he/him) | |
+| 12:15 - 12:45 | *Lessons learned from Integrating Lox Anonymous Credentials into Tor* | [Lindsey Tulloch](/2025/#lindsey-tulloch) (she/her) | |
 | 12:45 - 13:45 | Lunch (provided) | |
-| 13:45 - 14:15 | *A Deep Dive Into the Nym Mix Network Audit* | [**Nadim Kobeissi**](/2025/#nadim-kobeissi) | [[slides](<nadim_nym.pdf>)] |
-| 14:15 - 15:00 | *Closed Source Cryptography* | [**Lukas Zobernig**](/2025/#lukas-zobernig) | [[slides](<lukas_closed_source.pdf>)] |
+| 13:45 - 14:15 | *A Deep Dive Into the Nym Mix Network Audit* | [Nadim Kobeissi](/2025/#nadim-kobeissi) | [[slides](<nadim_nym.pdf>)] |
+| 14:15 - 15:00 | *Closed Source Cryptography* | [Lukas Zobernig](/2025/#lukas-zobernig) | [[slides](<lukas_closed_source.pdf>)] |
 | 15:00 - 15:15 | Break | |
-| 15:15 - 16:00 | *A Practical Introduction to zkVMs* **ⁱ** | [**Victor Snyder-Graf**](/2025/#victor-snyder-graf) (he/him) | [[resource](https://github.com/nategraf/oscw-zkvms-battleship)][[slides](<victor_zkvm.pdf>)] |
+| 15:15 - 16:00 | *A Practical Introduction to zkVMs* **ⁱ** | [Victor Snyder-Graf](/2025/#victor-snyder-graf) (he/him) | [[resource](https://github.com/nategraf/oscw-zkvms-battleship)][[slides](<victor_zkvm.pdf>)] |
 
 Note: **ⁱ** denotes an Interactive or Workshop Session
 
