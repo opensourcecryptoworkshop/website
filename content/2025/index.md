@@ -6,14 +6,14 @@ weight = 48
 
 OSCW 2025 took place before [Real World Crypto](https://rwc.iacr.org/2025/) on 25 March 2025 at the [Hilton](https://maps.app.goo.gl/shxnwsyo2KB5o9jS7) in Sofia, Bulgaria.
 
-## Archived Schedule
+## Archived Talks
 
 | Time | Session Title | Session Leader | Content |
 | - | - | - | - |
 | 9:30 - 9:50 | Registration and Coffee (provided) | |
 | 9:50 - 10:00 | Welcome | |
 | 10:00 - 10:45 | *Cryptographic Specifications and Open Source Implementations* **ⁱ** | [Filippo Valsorda](/2025/#filippo-valsorda) (he/him) | |
-| 10:45 - 11:30 | *Shufflecake: Plausible Deniability in 2025* | [Tommaso Gagliardoni](/2025/#tommaso-gagliardoni) (he/him) | [[slides](<tommaso_shufflecake.pdf>)] [[video](https://clip.place/w/kDw2ytUr3oq2rhM2dDyEr4)] |
+| 10:45 - 11:30 | *Shufflecake: Plausible Deniability in 2025* | [Tommaso Gagliardoni](/2025/#tommaso-gagliardoni) (he/him) | [[video](https://clip.place/w/kDw2ytUr3oq2rhM2dDyEr4)] [[slides](<tommaso_shufflecake.pdf>)] |
 | 11:30 - 11:45 | Break | |
 | 11:45 - 12:15 | *Core Dump Protection in Tink* | [Thomas Holenstein](/2025/#thomas-holenstein) (he/him) | |
 | 12:15 - 12:45 | *Lessons learned from Integrating Lox Anonymous Credentials into Tor* | [Lindsey Tulloch](/2025/#lindsey-tulloch) (she/her) | |
