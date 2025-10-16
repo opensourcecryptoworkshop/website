@@ -7,9 +7,9 @@ If you would like to learn more about open source cryptographic libraries and pr
 
 The Open Source Cryptography Workshop (OSCW) brings together practitioners interested in topics such as:
 
-- the developer and user experience associated with open source cryptography projects,</li>
-- the production and maintenance challenges of open source cryptography projects,</li>
-- improving the downstream effects of security fixes on dependent projects, and</li>
+- the developer and user experience associated with open source cryptography projects,
+- the production and maintenance challenges of open source cryptography projects,
+- improving the downstream effects of security fixes on dependent projects, and
 - best practices for designing clean-sheet crypto systems with modern primitives.
 
 # Past
