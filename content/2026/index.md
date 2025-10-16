@@ -7,3 +7,11 @@ weight = 47
 OSCW 2026 will take place co-incidently with [Real World Crypto](https://rwc.iacr.org/2026/) on a to-be-announced date in March 2026 at in Taipei, Taiwan.
 
 More information to be announced.
+
+## Organizers
+
+- [Cindy Lin](https://cindylindeed.github.io/), *Google*
+- [Anna Weine](), *Mozilla*
+- [Ioana Nedelcu](), *Google*
+- [J.C. Jones](https://insufficient.coffee/), *Internet Security Research Group*
+- [Fernando Lobato Meeser](), *Google*
