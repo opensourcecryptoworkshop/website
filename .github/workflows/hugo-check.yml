@@ -1,0 +1,43 @@
+name: Hugo Build Check
+
+on:
+
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  hugo-build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        submodules: recursive
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v3
+      with:
+        hugo-version: '0.151.1'
+
+    - name: Build Hugo site
+      run: hugo --minify --cleanDestinationDir
+
+    - name: Check build output
+      run: |
+        if [ ! -d "public" ]; then
+          echo "Build failed: public directory not created"
+          exit 1
+        fi
+        if [ ! -f "public/index.html" ]; then
+          echo "Build failed: index.html not found"
+          exit 1
+        fi
+        echo "Build successful: $(find public -name "*.html" | wc -l) HTML files generated"
+
+    - name: Upload build artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: hugo-site
+        path: public/
+        retention-days: 7
