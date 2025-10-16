@@ -54,5 +54,5 @@ jobs:
 
           📦 **Zip**: [oscw-pr-${{ github.event.pull_request.number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
 
-          The `.zip` is in the artifacts section of this workflow run.`
+          The .zip is in the artifacts section of this workflow run.`
           })
