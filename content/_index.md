@@ -12,6 +12,12 @@ The Open Source Cryptography Workshop (OSCW) brings together practitioners inter
 - improving the downstream effects of security fixes on dependent projects, and
 - best practices for designing clean-sheet crypto systems with modern primitives.
 
+# 2026
+
+[OSCW 2026](/2026) will take place co-incidently with [Real World Crypto](https://rwc.iacr.org/2026/) on a to-be-announced date in March 2026 at in Taipei, Taiwan.
+
+More information to be announced.
+
 # Past
 
 - [OSCW 2025](/2025)
