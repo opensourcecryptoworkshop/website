@@ -41,18 +41,3 @@ jobs:
         name: oscw-pr-${{ github.event.pull_request.number }}
         path: public/
         retention-days: 7
-
-    - name: Comment on PR
-      uses: actions/github-script@v7
-      with:
-        script: |
-          github.rest.issues.createComment({
-            issue_number: context.issue.number,
-            owner: context.repo.owner,
-            repo: context.repo.repo,
-            body: `✅ Build successful!
-
-          📦 **Zip**: [oscw-pr-${{ github.event.pull_request.number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
-
-          The .zip is in the artifacts section of this workflow run.`
-          })
