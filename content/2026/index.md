@@ -10,8 +10,8 @@ More information to be announced.
 
 ## Organizers
 
-- [Cindy Lin](https://cindylindeed.github.io/), *Google*
 - [Anna Weine](), *Mozilla*
+- [Cindy Lin](https://cindylindeed.github.io/), *Google*
+- [Fernando Lobato Meeser](), *Google*
 - [Ioana Nedelcu](), *Google*
 - [J.C. Jones](https://insufficient.coffee/), *Internet Security Research Group*
-- [Fernando Lobato Meeser](), *Google*
