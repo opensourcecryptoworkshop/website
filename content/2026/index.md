@@ -6,6 +6,18 @@ weight = 47
 
 OSCW 2026 will take place co-incidently with [Real World Crypto](https://rwc.iacr.org/2026/) on a to-be-announced date in March 2026 at in Taipei, Taiwan.
 
+## Call for Proposals
+
+We are requesting proposals for in-person sessions/talks, both presentations and hands-on demonstrations, on topics of interest to those who work on and with open source cryptography. As before, we have some stipends for speakers.
+
+[Please respond to the OSCW 2026 Session Proposals here](https://docs.google.com/forms/d/e/1FAIpQLSfx1bcAzqYa3fmSkrd-RBREXpQU0SSoqageYd0O2-tZBeIeFQ/viewform).
+
+The organizers will be in touch within 1 month of your submission.
+
+Submissions are due 31 January 2026.
+
+## More to come
+
 More information to be announced.
 
 ## Organizers
@@ -14,4 +26,4 @@ More information to be announced.
 - [Cindy Lin](https://cindylindeed.github.io/), *Google*
 - [Fernando Lobato Meeser](), *Google*
 - [Ioana Nedelcu](), *Google*
-- [J.C. Jones](https://insufficient.coffee/), *Internet Security Research Group*
+- [J.C. Jones](https://insufficient.coffee/about/), *Internet Security Research Group*
