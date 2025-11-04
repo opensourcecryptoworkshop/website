@@ -10,7 +10,7 @@ OSCW 2026 will take place co-incidently with [Real World Crypto](https://rwc.iac
 
 We are requesting proposals for in-person sessions/talks, both presentations and hands-on demonstrations, on topics of interest to those who work on and with open source cryptography. As before, we have some stipends for speakers.
 
-[Please respond to the OSCW 2026 Session Proposals here](https://docs.google.com/forms/d/e/1FAIpQLSfx1bcAzqYa3fmSkrd-RBREXpQU0SSoqageYd0O2-tZBeIeFQ/viewform).
+[Please respond to the OSCW 2026 Session Proposals here](https://docs.google.com/forms/d/1zLd46CWxPPMJEzikdHajrPeCDRAjhzstTEKRfTjZO1g).
 
 The organizers will be in touch within 1 month of your submission.
 
