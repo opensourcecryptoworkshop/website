@@ -1,6 +1,6 @@
 +++
 title = "OSCW 2026: Taipei, Taiwan"
-description = "OSCW 2026 will take place on dates adjacent to RWC 2026"
+description = "OSCW 2026 will take place 8 March 2026, the day before Real World Crypto"
 weight = 47
 +++
 
