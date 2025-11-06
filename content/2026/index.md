@@ -4,7 +4,7 @@ description = "OSCW 2026 will take place on dates adjacent to RWC 2026"
 weight = 47
 +++
 
-OSCW 2026 will take place co-incidently with [Real World Crypto](https://rwc.iacr.org/2026/) on a to-be-announced date in March 2026 at in Taipei, Taiwan.
+OSCW 2026 will take place before [Real World Crypto](https://rwc.iacr.org/2026/) [as an affiliated event](https://realworldcrypto.iacr.org/2026/affiliated.php) on 8 March 2026 in Taipei, Taiwan.
 
 ## Call for Proposals
 
@@ -15,6 +15,19 @@ We are requesting proposals for in-person sessions/talks, both presentations and
 The organizers will be in touch within 1 month of your submission.
 
 Submissions are due 31 January 2026.
+
+## Tentative Schedule
+
+Event date: 8 March 2026
+
+- 8:00 - 9:00 Breakfast/registration
+- 10:30 - 11:00 Morning coffee break
+- 12:30 - 14:00 Lunch break
+- 15:30 - 16:00 Afternoon coffee break
+
+## Location
+
+OSCW will be hosted at [Academia Sinica's Nankang Campus in Taipei, Taiwan](https://www.sinica.edu.tw/en/paragraph/10). [[Google Maps Link](https://goo.gl/maps/KmkA7NFcLLJy4cta9)]
 
 ## More to come
 
