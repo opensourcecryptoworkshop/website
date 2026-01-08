@@ -4,7 +4,7 @@ description = "OSCW 2026 will take place 8 March 2026, the day before Real World
 weight = 47
 +++
 
-OSCW 2026 will take place before [Real World Crypto](https://rwc.iacr.org/2026/) [as an affiliated event](https://realworldcrypto.iacr.org/2026/affiliated.php) on 8 March 2026 at the [Humanities and Social Science Building (HSSB)](https://maps.app.goo.gl/JHiW2VufHgvZhAHSA), at the Academia Sinica campus in Taipei, Taiwan.
+OSCW 2026 will take place before [Real World Crypto](https://rwc.iacr.org/2026/) [as an affiliated event](https://realworldcrypto.iacr.org/2026/affiliated.php) on 8 March 2026 at the [Biomedical Translation Research Center, National Biotechnology Research Park (NBRP)](https://maps.app.goo.gl/hRgVz3kRcHLRBacP6), at the Academia Sinica campus in Taipei, Taiwan.
 
 ## Call for Proposals
 
@@ -20,10 +20,13 @@ Submissions are due 31 January 2026.
 
 Event date: 8 March 2026
 
-- 8:00 - 9:00 Breakfast/registration
-- 10:30 - 11:00 Morning coffee break
-- 12:30 - 14:00 Lunch break
-- 15:30 - 16:00 Afternoon coffee break
+| Time          |                         |
+| ------------- | ----------------------- |
+| 8:00 - 8:55   | Breakfast/registration  |
+| 10:25 - 10:50 | Morning coffee break    |
+| 12:20 - 13:35 | Lunch break             |
+| 15:05 - 15:30 | Afternoon coffee break  |
+| 17:00         | End of program          |
 
 ## More to come
 
