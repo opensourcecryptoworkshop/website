@@ -4,21 +4,17 @@ description = "OSCW 2026 will take place 8 March 2026, the day before Real World
 weight = 47
 +++
 
-OSCW 2026 will take place before [Real World Crypto](https://rwc.iacr.org/2026/) [as an affiliated event](https://realworldcrypto.iacr.org/2026/affiliated.php) on 8 March 2026 at the [Biomedical Translation Research Center, National Biotechnology Research Park (NBRP)](https://maps.app.goo.gl/hRgVz3kRcHLRBacP6), at the Academia Sinica campus in Taipei, Taiwan.
+OSCW 2026 will take place before [Real World Crypto](https://rwc.iacr.org/2026/) as an [affiliated event](https://realworldcrypto.iacr.org/2026/affiliated.php) on 8 March 2026 at the [Biomedical Translation Research Center](https://maps.app.goo.gl/hRgVz3kRcHLRBacP6) at [Academia Sinica](https://www.sinica.edu.tw/en) in Taipei, Taiwan.
 
 ## Call for Proposals
 
-We are requesting proposals for in-person sessions/talks, both presentations and hands-on demonstrations, on topics of interest to those who work on and with open source cryptography. As before, we have some stipends for speakers.
+We are requesting proposals for in-person sessions and talks, including presentations and hands-on demonstrations, on topics of interest to those who work on and with open source cryptography. Stipends for speakers are available.
 
-[Please respond to the OSCW 2026 Session Proposals here](https://docs.google.com/forms/d/1zLd46CWxPPMJEzikdHajrPeCDRAjhzstTEKRfTjZO1g).
+Please respond to the [Call for Proposals here](https://docs.google.com/forms/d/1zLd46CWxPPMJEzikdHajrPeCDRAjhzstTEKRfTjZO1g).
 
-The organizers will be in touch within 1 month of your submission.
-
-Submissions are due 31 January 2026.
+The organizers will be in touch within 1 month of your submission. Submissions are due 31 January 2026.
 
 ## Tentative Schedule
-
-Event date: 8 March 2026
 
 | Time          |                         |
 | ------------- | ----------------------- |
@@ -28,7 +24,7 @@ Event date: 8 March 2026
 | 15:05 - 15:30 | Afternoon coffee break  |
 | 17:00         | End of program          |
 
-## More to come
+## More to Come
 
 More information to be announced.
 
