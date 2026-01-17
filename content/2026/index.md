@@ -14,6 +14,12 @@ Please respond to the [Call for Proposals here](https://docs.google.com/forms/d/
 
 The organizers will be in touch within 1 month of your submission. Submissions are due 31 January 2026.
 
+## Registration
+
+As an affiliated event, attendees must register for for OSCW via [IACR's registration interface](https://rwc.iacr.org/2026/registration.php). It _is_ possible to register for _only_ OSCW without registering for Real World Crypto.
+
+Early Registration is available through 6 February 2026.
+
 ## Tentative Schedule
 
 | Time          |                         |
