@@ -18,7 +18,7 @@ The Open Source Cryptography Workshop (OSCW) brings together practitioners inter
 
 The [Call for Session Proposals is underway](/2026) through January 2026.
 
-Registration is [open via ICAR](https://rwc.iacr.org/2026/registration.php) with early registration through 6 February 2026.
+Registration is open via [the IACR](https://rwc.iacr.org/2026/registration.php) with a late registration surchange starting after 6 February 2026.
 
 # Past
 

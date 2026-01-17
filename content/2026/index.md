@@ -16,9 +16,9 @@ The organizers will be in touch within 1 month of your submission. Submissions a
 
 ## Registration
 
-As an affiliated event, attendees must register for for OSCW via [IACR's registration interface](https://rwc.iacr.org/2026/registration.php). It _is_ possible to register for _only_ OSCW without registering for Real World Crypto.
+Since OSCW is an affiliated event of RWC, attendees register for this workshop via [the IACR portal](https://rwc.iacr.org/2026/registration.php). It is possible to register _only_ for OSCW without registering for RWC.
 
-Early Registration is available through 6 February 2026.
+A late registration surchange is applied after 6 February 2026.
 
 ## Tentative Schedule
 
