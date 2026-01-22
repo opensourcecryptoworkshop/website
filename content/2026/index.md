@@ -41,3 +41,11 @@ More information to be announced.
 - [Fernando Lobato Meeser](), *Google*
 - [Ioana Nedelcu](), *Google*
 - [J.C. Jones](https://insufficient.coffee/about/), *Internet Security Research Group*
+
+## Code of Conduct
+
+All participants are expected to adhere to our [Community Guidelines](https://developers.google.com/community-guidelines). The event organizers will be available to address any Community Guideline breaches and may be reached at [organizers@oscwork.shop](mailto:organizers@oscwork.shop).
+
+## Sponsors
+
+*Google*
