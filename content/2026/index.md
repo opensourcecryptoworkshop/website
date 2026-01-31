@@ -18,7 +18,9 @@ The organizers will be in touch within 1 month of your submission. Submissions a
 
 Since OSCW is an affiliated event of RWC, attendees register for this workshop via [the IACR portal](https://rwc.iacr.org/2026/registration.php). It is possible to register _only_ for OSCW without registering for RWC.
 
-Note: As the sponsor of OSCW 2026, Google will cover the [cost of attending OSCW](https://rwc.iacr.org/2026/registration.php) (150 USD) if your organization is not covering your registration fee. Please apply by filling out [this form](https://forms.gle/mj1YP7WrfSKEm9EC6). The waiver token must be used when you register, as it cannot be retroactively applied. The organizers will be in touch with waiver tokens within 1 week of your submission.
+**Note: As the sponsor of OSCW 2026, Google will cover the [cost of attending OSCW](https://rwc.iacr.org/2026/registration.php) (150 USD) if your organization is not covering your registration fee. Please apply by filling out [this form](https://forms.gle/mj1YP7WrfSKEm9EC6).**
+
+The waiver token must be used when you register, as it cannot be retroactively applied. The organizers will be in touch with waiver tokens within 1 week of your submission.
 
 A late registration surchange is applied after 6 February 2026.
 
