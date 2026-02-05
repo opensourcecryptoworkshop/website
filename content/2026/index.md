@@ -22,13 +22,13 @@ A late registration surchange is applied after 6 February 2026.
 
 ## Tentative Schedule
 
-| Time          |                         |
-| ------------- | ----------------------- |
-| 8:00 - 9:00   | Breakfast/registration  |
-| 10:30 - 11:00 | Morning coffee break    |
-| 12:30 - 14:00 | Lunch break             |
-| 15:30 - 16:00 | Afternoon coffee break  |
-| 17:30         | End of program          |
+| Time          | Session                     | Speaker        |
+| ------------- | --------------------------- | -------------- |
+| 8:00 - 9:00   | **Breakfast/registration**  | |
+| 10:30 - 11:00 | **Morning coffee break**    | |
+| 12:30 - 14:00 | **Lunch break**             | |
+| 15:30 - 16:00 | **Afternoon coffee break**  | |
+| 17:00         | **End of program**          | |
 
 ## More to Come
 
