@@ -8,11 +8,7 @@ OSCW 2026 will take place before [Real World Crypto](https://rwc.iacr.org/2026/)
 
 ## Call for Proposals
 
-We are requesting proposals for in-person sessions and talks, including presentations and hands-on demonstrations, on topics of interest to those who work on and with open source cryptography. Stipends for speakers are available.
-
-Please respond to the [Call for Proposals here](https://docs.google.com/forms/d/1zLd46CWxPPMJEzikdHajrPeCDRAjhzstTEKRfTjZO1g).
-
-The organizers will be in touch within 1 month of your submission. Submissions are due 31 January 2026.
+The call for proposed topics is ended.
 
 ## Registration
 
