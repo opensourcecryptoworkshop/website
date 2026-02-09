@@ -16,7 +16,7 @@ The Open Source Cryptography Workshop (OSCW) brings together practitioners inter
 
 [OSCW 2026](/2026) will take place before [Real World Crypto](https://rwc.iacr.org/2026/) as an [affiliated event](https://realworldcrypto.iacr.org/2026/affiliated.php) on 8 March 2026 at the [Academia Sinica](https://maps.app.goo.gl/hRgVz3kRcHLRBacP6) campus in Taipei, Taiwan.
 
-Registration is open via [the IACR](https://rwc.iacr.org/2026/registration.php) with a late registration surchange starting after 6 February 2026.
+Registration is open via [the IACR](https://rwc.iacr.org/2026/registration.php).
 
 # Past
 
