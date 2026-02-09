@@ -59,18 +59,18 @@ The presentation should be of interest to anyone working with high assurance cry
 | 16:00 - 16:30 | Mopro: Making Client-Side Zero-Knowledge Proving on Mobile Simple {{% expand title="Abstract" %}}
 Mopro is an open-source toolkit for client-side ZK proving on mobile. It lets developers port Rust-based ZK circuits to iOS, Android, React Native, Flutter, and web/WASM with minimal effort.
 
-## What Mopro provides
+###### What Mopro provides
 - Cross-platform bindings generation via CLI (Swift, Kotlin, WASM, etc.)
 - Support for Circom, Halo2, and Noir circuits
 - Also suitable for other computation-intensive protocols like FHE in Rust crates
 - Up to 20x faster proving compared to browser-based snarkjs
 
-## Session content
+###### Session content
 1. Architecture overview: how FFIs enable cross-platform support
 2. Live demo: scaffold a ZK mobile app using `mopro-cli` and generate a proof on a real device
 3. Real-world usage: Anon Aadhaar, zkEmail, EZKL, Semaphore
 
-## Links
+###### Links
 - Website: https://zkmopro.org
 - GitHub: https://github.com/zkmopro/mopro (210+ stars, 51 contributors, Apache-2.0/MIT)
 - Previous talks: https://zkmopro.org/docs/community
