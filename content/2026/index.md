@@ -75,7 +75,9 @@ Mopro is an open-source toolkit for client-side ZK proving on mobile. It lets de
 - GitHub: https://github.com/zkmopro/mopro (210+ stars, 51 contributors, Apache-2.0/MIT)
 - Previous talks: https://zkmopro.org/docs/community
 {{% /expand %}} | Moven Tsai |
-| 16:30 - 17:00 | *To Be Announced* | |
+| 16:30 - 17:00 | Implementations of Anonymous Tokens with & without Metadata {{% expand title="Abstract" %}}
+In this talk, I will discuss the open-source cryptography code that my team at Google has been maintaining for the last five years, which is used in many Google products. This includes two GitHub repositories: "Private Set Membership" (https://github.com/google/private-membership) and "Anonymous Tokens" (https://github.com/google/anonymous-tokens). The talk will focus primarily on the latter, touching on topics ranging from protocol design and deployment challenges to the requirements and needs that led to open-sourcing the code. I will also discuss why public metadata is useful for anonymous tokens, the trade-off between anonymity and tracking bits, and how we enabled this in our protocol. I will cover several main deployment challenges, such as the limited number of libraries our code could depend on for various reasons, supporting multiple languages, attempting to be constant-time where needed, scaling the server-side due to larger exponents, and limiting the amount of public metadata. Finally, I will provide a quick overview of the open-source Anonymous Tokens repository and discuss the parts that are not open-sourced.
+{{% /expand %}}| Ghous Amjad (he/him) |
 | 17:00         | **End of program**          | |
 
 ## Organizers
