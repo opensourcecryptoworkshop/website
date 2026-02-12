@@ -16,9 +16,9 @@ The waiver token must be used when you register, as it cannot be retroactively a
 
 ## Tentative Schedule
 
-###### **8:00 - 9:00** Breakfast / Registration
+###### **8:00 - 9:00** *Breakfast and registration*
 
-###### **9:00 - 9:30** Integrating Post-Quantum algorithms into a crypto library: case study in GnuTLS
+###### **9:00 - 9:30** Integrating Post-Quantum Algorithms into a Crypto Library: Case Study in GnuTLS
 {{% expand title="Daiki Ueno" %}}
 As a core maintainer of GnuTLS since 2020, Daiki has been architecting the secure communications library to meet modern security standards. He works at Red Hat, where his primary focus is post-quantum migration of RHEL. He is also an active contributor to essential cryptographic libraries throughout the ecosystem, including Nettle, p11-kit, and NSS.
 {{% /expand %}}
@@ -56,9 +56,17 @@ Signal already has a system in place for account recovery that uses a predefined
 In this talk, we'll discuss the problem of Forward Secrecy in Backups, the decision to reuse existing infrastructure in a new way rather than building something new from scratch, and the integration of the resulting Forward Secrecy Tokens (FSTs) into the encryption of backups that allows the property of Forward Secrecy to be attained.  We'll discuss the protocols for storing, retrieving, overwriting, and deleting FSTs, as well as the way that FSTs are integrated into the encryption of stored backups.  We'll also discuss the ways we've created a system where a newly generated backup can be stored remotely along with its associated FST, such that a failure during any step still allows for a recent backup to be restored.
 {{% /expand %}}
 
-###### **10:30 - 11:00** *Morning coffee break*
+###### **10:30 - 11:15** *Morning coffee break*
 
-###### **11:00 - 12:00** *To Be Announced*
+###### **11:15 - 12:00** Trusted Publishing and Attestations on PyPI, Three Years In
+
+{{% expand title="William Woodruff (he/him)" %}} &nbsp; {{% /expand %}}
+
+{{% expand title="Abstract" %}}
+Three years ago, PyPI began an initiative to build a more secure, lasting foundation for both publishing and signing Python packages. This initiative yielded two techniques, both built on public key cryptography: Trusted Publishing, which uses OpenID Connect to establish misuse-resistant credentials between PyPI and CI/CD systems, and Attestations, which uses machine identities and Sigstore to provide zero-setup package signing by default.
+
+This talk offers a three year retrospective on that initiative: where it's gone well, where it's gone poorly, what other ecosystems have gleaned from Python/PyPI's experience, and what the future holds for signature and transparency techniques in Open Source packaging.
+{{% /expand %}}
 
 ###### **12:00 - 12:30** Footguns, Open Source, and WTF, Guys? Seriously?
 {{% expand title="Opal Wright (she/her)" %}} &nbsp; {{% /expand %}}
@@ -73,7 +81,32 @@ Why the hell is this situation allowed to continue? Failing to speak openly and 
 
 ###### **12:30 - 14:00** *Lunch break*
 
-###### **14:00 - 15:00** *To Be Announced*
+###### **14:00 - 15:00** Breaking Deepfakes With Shared Secrets: Building The Doppelgänger Protocol
+
+{{% expand title="Jonathan Bateman (he/him)" %}} &nbsp; {{% /expand %}}
+
+{{% expand title="Abstract" %}}
+Voice clones fool CEOs into wiring millions. AI-generated video calls scam elderly parents. Traditional authentication like passwords, 2FA, and biometrics can all be faked or phished.
+
+How do we verify identity when audio, video, and even biometrics are no longer trustworthy?
+In this hands-on session, we'll explore The Doppelgänger Protocol™: a cryptographic approach that transforms shared human memories into unforgeable authentication keys. We'll examine how memory-based verification combines challenge-response protocols, local-first cryptography, and zero-knowledge principles to create a new layer of human authentication that AI cannot replicate.
+
+**What you'll learn**
+1. Why traditional authentication fails against sophisticated deepfake attacks
+2. How memory-based challenges create cryptographic proof of shared human experience
+3. The technical architecture: local key generation, challenge protocols, and privacy preservation
+4. Real-world threat models: grandparent scams, executive impersonation, romantic catfishing
+
+**What you'll do**
+
+After a focused technical breakdown, you'll install realxreal and pair up with another attendee. You'll create shared memories together, generate challenge questions, and experience the protocol firsthand seeing how two strangers can build a trusted connection in minutes using cryptographic memory verification through a mobile first experience.
+
+This isn't theoretical. This is cryptography deployed against the most urgent identity threat of our time. By the end of this session, you'll understand both the protocol design and have working code you can examine, fork, and build upon.
+
+**Walk away with**
+
+A new mental model for human authentication, hands-on experience with the protocol, and insight into deploying cryptographic solutions for non-technical users facing AI threats.
+{{% /expand %}}
 
 ###### **15:00 - 15:30** Lessons Learned from Working with Verified Code in libcrux
 {{% expand title="Jonas Schneider-Bensch (he/him)" %}} &nbsp; {{% /expand %}}
