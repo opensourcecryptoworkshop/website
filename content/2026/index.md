@@ -16,9 +16,9 @@ The waiver token must be used when you register, as it cannot be retroactively a
 
 ## Tentative Schedule
 
-### **8:00 - 9:00** Breakfast / Registration
+#### **8:00 - 9:00** Breakfast / Registration
 
-### **9:00 - 9:30** Integrating Post-Quantum algorithms into a crypto library: case study in GnuTLS
+#### **9:00 - 9:30** Integrating Post-Quantum algorithms into a crypto library: case study in GnuTLS
 {{% expand title="Daiki Ueno" %}} As a core maintainer of GnuTLS since 2020, Daiki has been architecting the secure communications library to meet modern security standards. He works at Red Hat, where his primary focus is post-quantum migration of RHEL. He is also an active contributor to essential cryptographic libraries throughout the ecosystem, including Nettle, p11-kit, and NSS. {{% /expand %}}
 
 {{% expand title="Abstract" %}}
@@ -27,7 +27,7 @@ GnuTLS is a free software implementation of the TLS and DTLS protocols, particul
 Implementing these complex lattice-based cryptographic primitives in C has presented several technical challenges that we feel are important to share with the community. We will detail common pitfalls, such as securing against potential side-channel vulnerabilities, where operations dependent on secret data require strict constant-time coding, and addressing the memory allocation and management complexities inherent in PQC's polynomial and matrix operations. Our presentation will outline the strategies we have adopted, including branchless coding where feasible, rigorously zeroing memory to prevent leakage, avoiding signed integer overflow, and implementing dedicated constant-time validation tests.
 {{% /expand %}}
 
-### **9:30 - 10:00** AWS-LC: Deploying Formally Verified Post-Quantum Cryptography at Scale
+#### **9:30 - 10:00** AWS-LC: Deploying Formally Verified Post-Quantum Cryptography at Scale
 {{% expand title="Dusan Kostic" %}} Dusan Kostic is a cryptographer at AWS, where he focuses on post-quantum cryptography and formal verification. A core developer and maintainer of the AWS-LC cryptographic library, he also contributes regularly to mlkem-native and s2n-bignum. He holds a PhD from EPFL, where he was advised by Arjen Lenstra, and mentored by Shay Gueron. {{% /expand %}}
 
 {{% expand title="Abstract" %}}
@@ -40,7 +40,7 @@ We discuss our verification strategy: CBMC verifies the C code for memory-safety
 {{% /expand %}}
 
 
-### **10:00 - 10:30** Forward Secrecy for Signal Secure Backups
+#### **10:00 - 10:30** Forward Secrecy for Signal Secure Backups
 {{% expand title="Graeme Connell (he/him)" %}} Graeme Connell is a software developer on the Research team at Signal nonprofit, where he has worked since 2021. At Signal, he has focused on systems running in Trusted Execution Environments, including the ORAM-backed Contact Discovery Service and rollback-resistant Secure Value Recovery Service. He has also been a key contributor to Signal's post-quantum migration, including development of the Sparse Post-Quantum Ratchet and current work on session management systems and scalability improvements for Signal's private group system. Prior to Signal, Graeme spent 14 years with Google working on authorization, intrusion detection and response, websearch, geo, and payments security. Graeme currently resides in British Columbia, Canada. {{% /expand %}}
 
 {{% expand title="Abstract" %}}
@@ -51,11 +51,11 @@ Signal already has a system in place for account recovery that uses a predefined
 In this talk, we'll discuss the problem of Forward Secrecy in Backups, the decision to reuse existing infrastructure in a new way rather than building something new from scratch, and the integration of the resulting Forward Secrecy Tokens (FSTs) into the encryption of backups that allows the property of Forward Secrecy to be attained.  We'll discuss the protocols for storing, retrieving, overwriting, and deleting FSTs, as well as the way that FSTs are integrated into the encryption of stored backups.  We'll also discuss the ways we've created a system where a newly generated backup can be stored remotely along with its associated FST, such that a failure during any step still allows for a recent backup to be restored.
 {{% /expand %}}
 
-### **10:30 - 11:00** *Morning coffee break*
+#### **10:30 - 11:00** *Morning coffee break*
 
-### **11:00 - 12:00** *To Be Announced*
+#### **11:00 - 12:00** *To Be Announced*
 
-### **12:00 - 12:30** Footguns, Open Source, and WTF, Guys? Seriously?
+#### **12:00 - 12:30** Footguns, Open Source, and WTF, Guys? Seriously?
 {{% expand title="Opal Wright (she/her)" %}} &nbsp; {{% /expand %}}
 
 {{% expand title="Abstract" %}}
@@ -65,9 +65,9 @@ These footguns lead to real-world failures: Trail of Bits has identified multipl
 
 Why the hell is this situation allowed to continue? Failing to speak openly and loudly about these popular libraries is cryptographic malpractice, and we have to do more to protect developers. Better APIs can only go so far: it’s time for us to start naming names and warning against bad actors.
 {{% /expand %}}
-### **12:30 - 14:00** *Lunch break*
-### **14:00 - 15:00** *To Be Announced*
-### **15:00 - 15:30** Lessons Learned from Working with Verified Code in libcrux
+#### **12:30 - 14:00** *Lunch break*
+#### **14:00 - 15:00** *To Be Announced*
+#### **15:00 - 15:30** Lessons Learned from Working with Verified Code in libcrux
 {{% expand title="Jonas Schneider-Bensch (he/him)" %}} &nbsp; {{% /expand %}}
 
 {{% expand title="Abstract" %}}
@@ -76,8 +76,8 @@ The libcrux library of formally verified cryptographic algorithms exhibits a spe
 The presentation should be of interest to anyone working with high assurance cryptographic code in production environments, from either the cryptographic engineering or tool maker perspective and I want to invite you to open discussion afterwards on high assurance development practices.
 {{% /expand %}}
 
-### **15:30 - 16:00** *Afternoon coffee break*
-### **16:00 - 16:30** Mopro: Making Client-Side Zero-Knowledge Proving on Mobile Simple
+#### **15:30 - 16:00** *Afternoon coffee break*
+#### **16:00 - 16:30** Mopro: Making Client-Side Zero-Knowledge Proving on Mobile Simple
 
 {{% expand title="Moven Tsai and Vivian Jeng" %}}
 Vivian Jeng: Developer at Ethereum Foundation (PSE)
@@ -103,7 +103,7 @@ Mopro is an open-source toolkit for client-side ZK proving on mobile. It lets de
 - Previous talks: https://zkmopro.org/docs/community
 {{% /expand %}}
 
-### **16:30 - 17:00** Implementations of Anonymous Tokens with & without Metadata
+#### **16:30 - 17:00** Implementations of Anonymous Tokens with & without Metadata
 
 {{% expand title="Ghous Amjad (he/him)" %}} &nbsp; {{% /expand %}}
 
@@ -111,7 +111,7 @@ Mopro is an open-source toolkit for client-side ZK proving on mobile. It lets de
 In this talk, I will discuss the open-source cryptography code that my team at Google has been maintaining for the last five years, which is used in many Google products. This includes two GitHub repositories: "Private Set Membership" (https://github.com/google/private-membership) and "Anonymous Tokens" (https://github.com/google/anonymous-tokens). The talk will focus primarily on the latter, touching on topics ranging from protocol design and deployment challenges to the requirements and needs that led to open-sourcing the code. I will also discuss why public metadata is useful for anonymous tokens, the trade-off between anonymity and tracking bits, and how we enabled this in our protocol. I will cover several main deployment challenges, such as the limited number of libraries our code could depend on for various reasons, supporting multiple languages, attempting to be constant-time where needed, scaling the server-side due to larger exponents, and limiting the amount of public metadata. Finally, I will provide a quick overview of the open-source Anonymous Tokens repository and discuss the parts that are not open-sourced.
 {{% /expand %}}
 
-### **17:00** *End of program*
+#### **17:00** *End of program*
 
 ## Organizers
 
