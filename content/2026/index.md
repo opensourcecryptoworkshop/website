@@ -99,7 +99,7 @@ In this hands-on session, we'll explore The Doppelgänger Protocol™: a cryptog
 
 **What you'll do**
 
-After a focused technical breakdown, you'll install realxreal and pair up with another attendee. You'll create shared memories together, generate challenge questions, and experience the protocol firsthand seeing how two strangers can build a trusted connection in minutes using cryptographic memory verification through a mobile first experience.
+After a focused technical breakdown, you'll pair up with another attendee and experience the protocol firsthand. Using a live browser-based demo, you'll create memory challenges together, generate cryptographic keypairs directly in your browser using the Web Crypto API, and verify each others identities in real time. You'll see exactly how two strangers can build a trusted connection in minutes using memory-anchored cryptography through a mobile first experience.
 
 This isn't theoretical. This is cryptography deployed against the most urgent identity threat of our time. By the end of this session, you'll understand both the protocol design and have working code you can examine, fork, and build upon.
 
