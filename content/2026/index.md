@@ -14,7 +14,7 @@ Since OSCW is an affiliated event of RWC, attendees register for this workshop v
 
 The waiver token must be used when you register, as it cannot be retroactively applied. The organizers will be in touch with waiver tokens within 1 week of your submission.
 
-## Tentative Schedule
+## Schedule
 
 ###### **8:00 - 9:00** *Breakfast and registration*
 
@@ -60,7 +60,9 @@ In this talk, we'll discuss the problem of Forward Secrecy in Backups, the decis
 
 ###### **11:15 - 12:00** Trusted Publishing and Attestations on PyPI, Three Years In
 
-{{% expand title="William Woodruff (he/him)" %}} &nbsp; {{% /expand %}}
+{{% expand title="William Woodruff (he/him)" %}} 
+William Woodruff is an engineer at Astral, where he works on high-performance Python developer tooling. Outside of work he's a maintainer of Homebrew and a long-term contributor to Python packaging and package ecosystem security initiatives. He maintains a blog at https://blog.yossarian.net.
+{{% /expand %}}
 
 {{% expand title="Abstract" %}}
 Three years ago, PyPI began an initiative to build a more secure, lasting foundation for both publishing and signing Python packages. This initiative yielded two techniques, both built on public key cryptography: Trusted Publishing, which uses OpenID Connect to establish misuse-resistant credentials between PyPI and CI/CD systems, and Attestations, which uses machine identities and Sigstore to provide zero-setup package signing by default.
@@ -83,7 +85,9 @@ Why the hell is this situation allowed to continue? Failing to speak openly and 
 
 ###### **14:00 - 15:00** Breaking Deepfakes With Shared Secrets: Building The Doppelgänger Protocol
 
-{{% expand title="Jonathan Bateman (he/him)" %}} &nbsp; {{% /expand %}}
+{{% expand title="Jonathan Bateman (he/him)" %}}
+Jonathan Bateman is a secure‑software developer and applied mathematician who blends technical depth with social awareness to solve complex problems. As the founder of Real Recognizes Real AI (realxreal.ai), he helps people authenticate the online identities of their digital contacts by combining cryptography, biometrics, and shared memories to outsmart deepfakes. Previously, he co‑founded OpenBWC, a DOJ‑funded AI‑ethics initiative; Goshen Digital Security, a cybersecurity firm that protects small businesses; and co-founded CodeSwtch Capital Ventures, a multi-form capital-building firm for startup ventures. He is currently a senior in RIT’s Honors Program, pursuing dual degrees in Applied Math & Computing Security and Sociology & Anthropology, and he holds fellowships and scholarships including Y Combinators AI Startup School, SOIS Gap‑Year Fellow, Partners & Napier Fellow, Spectrum Scholar, and RIT Multidisciplinary Scholar. Believing that the most powerful technology serves both society and security, he weaves together mathematics, anthropology , sociology, and ethics.
+{{% /expand %}}
 
 {{% expand title="Abstract" %}}
 Voice clones fool CEOs into wiring millions. AI-generated video calls scam elderly parents. Traditional authentication like passwords, 2FA, and biometrics can all be faked or phished.
