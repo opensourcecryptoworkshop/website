@@ -14,7 +14,7 @@ Since OSCW is an affiliated event of RWC, attendees register for this workshop v
 
 The waiver token must be used when you register, as it cannot be retroactively applied. The organizers will be in touch with waiver tokens within 1 week of your submission.
 
-## Tentative Schedule
+## Schedule
 
 ###### **8:00 - 9:00** *Breakfast and registration*
 
