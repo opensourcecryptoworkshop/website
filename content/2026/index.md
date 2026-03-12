@@ -1,20 +1,12 @@
 +++
 title = "OSCW 2026: Taipei, Taiwan"
-description = "OSCW 2026 will take place 8 March 2026, the day before Real World Crypto"
+description = "OSCW 2026 took place 8 March 2026"
 weight = 47
 +++
 
-OSCW 2026 will take place before [Real World Crypto](https://rwc.iacr.org/2026/) as an [affiliated event](https://realworldcrypto.iacr.org/2026/affiliated.php) on 8 March 2026 at the [Biomedical Translation Research Center](https://maps.app.goo.gl/hRgVz3kRcHLRBacP6) at [Academia Sinica](https://www.sinica.edu.tw/en) in Taipei, Taiwan.
+OSCW 2026 took place before [Real World Crypto](https://rwc.iacr.org/2026/) as an [affiliated event](https://realworldcrypto.iacr.org/2026/affiliated.php) on 8 March 2026 at the [Biomedical Translation Research Center](https://maps.app.goo.gl/hRgVz3kRcHLRBacP6) at [Academia Sinica](https://www.sinica.edu.tw/en) in Taipei, Taiwan.
 
-## Registration
-
-Since OSCW is an affiliated event of RWC, attendees register for this workshop via [the IACR portal](https://rwc.iacr.org/2026/registration.php). It is possible to register _only_ for OSCW without registering for RWC.
-
-**Note: As the sponsor of OSCW 2026, Google will cover the [cost of attending OSCW](https://rwc.iacr.org/2026/registration.php) (150 USD) if your organization is not covering your registration fee. Please apply by filling out [this form](https://forms.gle/mj1YP7WrfSKEm9EC6).**
-
-The waiver token must be used when you register, as it cannot be retroactively applied. The organizers will be in touch with waiver tokens within 1 week of your submission.
-
-## Schedule
+## Archived Schedule
 
 ###### **8:00 - 9:00** *Breakfast and registration*
 
