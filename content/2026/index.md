@@ -10,7 +10,7 @@ OSCW 2026 took place before [Real World Crypto](https://rwc.iacr.org/2026/) as a
 
 ###### **8:00 - 9:00** *Breakfast and registration*
 
-###### **9:00 - 9:30** Integrating Post-Quantum Algorithms into a Crypto Library: Case Study in GnuTLS
+###### **9:00 - 9:30** Integrating Post-Quantum Algorithms into a Crypto Library: Case Study in GnuTLS [[video](https://archive.org/details/oscw-2026-daiki-ueno-integrating-pq-algorithms-into-gnutls)]
 {{% expand title="Daiki Ueno" %}}
 As a core maintainer of GnuTLS since 2020, Daiki has been architecting the secure communications library to meet modern security standards. He works at Red Hat, where his primary focus is post-quantum migration of RHEL. He is also an active contributor to essential cryptographic libraries throughout the ecosystem, including Nettle, p11-kit, and NSS.
 {{% /expand %}}
@@ -21,7 +21,7 @@ GnuTLS is a free software implementation of the TLS and DTLS protocols, particul
 Implementing these complex lattice-based cryptographic primitives in C has presented several technical challenges that we feel are important to share with the community. We will detail common pitfalls, such as securing against potential side-channel vulnerabilities, where operations dependent on secret data require strict constant-time coding, and addressing the memory allocation and management complexities inherent in PQC's polynomial and matrix operations. Our presentation will outline the strategies we have adopted, including branchless coding where feasible, rigorously zeroing memory to prevent leakage, avoiding signed integer overflow, and implementing dedicated constant-time validation tests.
 {{% /expand %}}
 
-###### **9:30 - 10:00** AWS-LC: Deploying Formally Verified Post-Quantum Cryptography at Scale
+###### **9:30 - 10:00** AWS-LC: Deploying Formally Verified Post-Quantum Cryptography at Scale [[video](https://archive.org/details/oscw-2026-dusan-kostic-aws-lc-deploying-formally-verified-pq-crypto-at-scale)]
 {{% expand title="Dusan Kostic" %}}
 Dusan Kostic is a cryptographer at AWS, where he focuses on post-quantum cryptography and formal verification. A core developer and maintainer of the AWS-LC cryptographic library, he also contributes regularly to mlkem-native and s2n-bignum. He holds a PhD from EPFL, where he was advised by Arjen Lenstra, and mentored by Shay Gueron.
 {{% /expand %}}
@@ -35,7 +35,7 @@ AWS-LC's reach extends well beyond AWS services. Through aws-lc-rs, a Rust crypt
 We discuss our verification strategy: CBMC verifies the C code for memory-safety, type-safety, and in some cases functional correctness, using contracts and loop invariants, while HOL Light verifies the hand-crafted assembly for functional correctness using the s2n-bignum infrastructure. We explain how these verification domains connect at the C-assembly boundary, how we keep proofs synchronized with code through CI, and our ongoing work on constant-time verification. We reflect on lessons learned from deploying formally verified post-quantum cryptography into a production library at AWS scale.
 {{% /expand %}}
 
-###### **10:00 - 10:30** Forward Secrecy for Signal Secure Backups
+###### **10:00 - 10:30** Forward Secrecy for Signal Secure Backups [[video](https://archive.org/details/oscw-2026-graeme-connell-forward-secrecy-for-signal-secure-backups)]
 {{% expand title="Graeme Connell (he/him)" %}}
 Graeme Connell is a software developer on the Research team at Signal nonprofit, where he has worked since 2021. At Signal, he has focused on systems running in Trusted Execution Environments, including the ORAM-backed Contact Discovery Service and rollback-resistant Secure Value Recovery Service. He has also been a key contributor to Signal's post-quantum migration, including development of the Sparse Post-Quantum Ratchet and current work on session management systems and scalability improvements for Signal's private group system. Prior to Signal, Graeme spent 14 years with Google working on authorization, intrusion detection and response, websearch, geo, and payments security. Graeme currently resides in British Columbia, Canada.
 {{% /expand %}}
@@ -50,7 +50,7 @@ In this talk, we'll discuss the problem of Forward Secrecy in Backups, the decis
 
 ###### **10:30 - 11:15** *Morning coffee break*
 
-###### **11:15 - 12:00** Trusted Publishing and Attestations on PyPI, Three Years In
+###### **11:15 - 12:00** Trusted Publishing and Attestations on PyPI, Three Years In [[video](https://archive.org/details/oscw-2026-william-woodruff-trusted-publishing-and-attestations-on-pypi-three-years-in)]
 
 {{% expand title="William Woodruff (he/him)" %}} 
 William Woodruff is an engineer at Astral, where he works on high-performance Python developer tooling. Outside of work he's a maintainer of Homebrew and a long-term contributor to Python packaging and package ecosystem security initiatives. He maintains a blog at https://blog.yossarian.net.
@@ -62,7 +62,7 @@ Three years ago, PyPI began an initiative to build a more secure, lasting founda
 This talk offers a three year retrospective on that initiative: where it's gone well, where it's gone poorly, what other ecosystems have gleaned from Python/PyPI's experience, and what the future holds for signature and transparency techniques in Open Source packaging.
 {{% /expand %}}
 
-###### **12:00 - 12:30** Footguns, Open Source, and WTF, Guys? Seriously?
+###### **12:00 - 12:30** Footguns, Open Source, and WTF, Guys? Seriously? [[video](https://archive.org/details/oscw-2026-opal-wright-footguns-open-source-and-wtf-guys-seriously)]
 {{% expand title="Opal Wright (she/her)" %}} &nbsp; {{% /expand %}}
 
 {{% expand title="Abstract" %}}
@@ -75,7 +75,7 @@ Why the hell is this situation allowed to continue? Failing to speak openly and 
 
 ###### **12:30 - 14:00** *Lunch break*
 
-###### **14:00 - 15:00** Breaking Deepfakes With Shared Secrets: Building The Doppelgänger Protocol
+###### **14:00 - 15:00** Breaking Deepfakes With Shared Secrets: Building The Doppelgänger Protocol [[video](https://archive.org/details/oscw-2026-jonathan-bateman-breaking-deepfakes-with-shared-secrets)]
 
 {{% expand title="Jonathan Bateman (he/him)" %}}
 Jonathan Bateman is a secure‑software developer and applied mathematician who blends technical depth with social awareness to solve complex problems. As the founder of Real Recognizes Real AI (realxreal.ai), he helps people authenticate the online identities of their digital contacts by combining cryptography, biometrics, and shared memories to outsmart deepfakes. Previously, he co‑founded OpenBWC, a DOJ‑funded AI‑ethics initiative; Goshen Digital Security, a cybersecurity firm that protects small businesses; and co-founded CodeSwtch Capital Ventures, a multi-form capital-building firm for startup ventures. He is currently a senior in RIT’s Honors Program, pursuing dual degrees in Applied Math & Computing Security and Sociology & Anthropology, and he holds fellowships and scholarships including Y Combinators AI Startup School, SOIS Gap‑Year Fellow, Partners & Napier Fellow, Spectrum Scholar, and RIT Multidisciplinary Scholar. Believing that the most powerful technology serves both society and security, he weaves together mathematics, anthropology , sociology, and ethics.
@@ -104,7 +104,7 @@ This isn't theoretical. This is cryptography deployed against the most urgent id
 A new mental model for human authentication, hands-on experience with the protocol, and insight into deploying cryptographic solutions for non-technical users facing AI threats.
 {{% /expand %}}
 
-###### **15:00 - 15:30** Lessons Learned from Working with Verified Code in libcrux
+###### **15:00 - 15:30** Lessons Learned from Working with Verified Code in libcrux [[video](https://archive.org/details/oscw-2026-jonas-schneider-bensch-lessons-learned-from-working-with-verified-code-in-libcrux)]
 {{% expand title="Jonas Schneider-Bensch (he/him)" %}} &nbsp; {{% /expand %}}
 
 {{% expand title="Abstract" %}}
@@ -115,7 +115,7 @@ The presentation should be of interest to anyone working with high assurance cry
 
 ###### **15:30 - 16:00** *Afternoon coffee break*
 
-###### **16:00 - 16:30** Mopro: Making Client-Side Zero-Knowledge Proving on Mobile Simple
+###### **16:00 - 16:30** Mopro: Making Client-Side Zero-Knowledge Proving on Mobile Simple [[video](https://archive.org/details/oscw-2026-moven-tsai-and-vivian-jeng-mopro-making-client-side-zero-knowledge-proving-on-mobile-simple)]
 
 {{% expand title="Moven Tsai and Vivian Jeng" %}}
 Vivian Jeng: Developer at Ethereum Foundation (PSE)
@@ -154,6 +154,10 @@ In this talk, I will discuss the open-source cryptography code that my team at G
 {{% /expand %}}
 
 ###### **17:00** *End of program*
+
+## Photographs
+
+[Photographs are available on Flickr](https://www.flickr.com/photos/opensourcecryptoworkshop/albums/72177720333129658).
 
 ## Organizers
 
