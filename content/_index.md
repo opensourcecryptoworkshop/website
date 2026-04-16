@@ -12,6 +12,9 @@ The Open Source Cryptography Workshop (OSCW) brings together practitioners inter
 - improving the downstream effects of security fixes on dependent projects, and
 - best practices for designing clean-sheet crypto systems with modern primitives.
 
+# Upcoming
+- [OSCW 2027](/2027)
+
 # Past
 - [OSCW 2026](/2026)
 - [OSCW 2025](/2025)
