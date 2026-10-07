@@ -1,0 +1,49 @@
+{{- /*
+  Renders a workshop schedule from data/<year>/sessions.yaml.
+
+  Usage: {{< schedule >}} (year taken from the page's directory) or
+         {{< schedule year="2026" >}}
+*/ -}}
+{{- $page := .Page }}
+{{- $year := .Get "year" | default (path.Base (path.Clean $page.File.Dir)) }}
+{{- $sessions := index hugo.Data $year "sessions" }}
+{{- if not $sessions }}
+  {{- errorf "schedule: no data/%s/sessions.yaml found for %q" $year $page.File.Path }}
+{{- end }}
+{{- range $sessions }}
+  {{- if .break }}
+<h6 id="{{ anchorize (printf "%s %s" .time .break) }}"><strong>{{ .time }}</strong> <em>{{ .break }}</em></h6>
+  {{- else }}
+    {{- $headingText := printf "%s %s" .time .title }}
+    {{- with .video }}{{ $headingText = printf "%s video" $headingText }}{{ end }}
+<h6 id="{{ anchorize $headingText }}"><strong>{{ .time }}</strong> {{ .title }}{{ with .video }} [<a href="{{ . }}" rel="external">video</a>]{{ end }}</h6>
+
+    {{- $names := slice }}
+    {{- range .speakers }}{{ $names = $names | append .name }}{{ end }}
+    {{- $speakerTitle := delimit $names ", " " and " }}
+    {{- if and (eq (len .speakers) 1) (index .speakers 0).pronouns }}
+      {{- $speakerTitle = printf "%s (%s)" $speakerTitle (index .speakers 0).pronouns }}
+    {{- end }}
+
+    {{- $multi := gt (len .speakers) 1 }}
+    {{- $bios := slice }}
+    {{- range .speakers }}
+      {{- if .bio }}
+        {{- $bios = $bios | append (cond $multi (printf "**%s:** %s" .name .bio) .bio) }}
+      {{- else }}
+        {{- warnf "schedule %s: %q is missing a bio (%s)" $year .name $page.File.Path }}
+      {{- end }}
+    {{- end }}
+    {{- $bioHTML := "&nbsp;" }}
+    {{- with $bios }}{{ $bioHTML = $page.RenderString (dict "display" "block") (delimit . "\n\n") }}{{ end }}
+{{ partial "shortcodes/expand.html" (dict "page" $page "title" $speakerTitle "content" $bioHTML) }}
+
+    {{- $abstractHTML := "&nbsp;" }}
+    {{- with .abstract }}
+      {{- $abstractHTML = $page.RenderString (dict "display" "block") . }}
+    {{- else }}
+      {{- warnf "schedule %s: %q is missing an abstract (%s)" $year .title $page.File.Path }}
+    {{- end }}
+{{ partial "shortcodes/expand.html" (dict "page" $page "title" "Abstract" "content" $abstractHTML) }}
+  {{- end }}
+{{- end }}
