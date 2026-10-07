@@ -14,7 +14,22 @@ Sessions are offered in three lengths: **20 minutes** (with 5 minutes Q&A), **35
 
 We plan to record sessions and release recordings under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license, subject to speaker consent.
 
-More details to be announced.
+**Submission form and deadline: to be announced.**
+
+### What to include
+
+Your proposal should give reviewers a clear picture of the session you'll run:
+
+- **Title and abstract:** what attendees will read in the program (up to about 300 words).
+- **Session type and preferred length:** presentation, interactive/hands-on, or panel.
+- **Outline:** the major sections with rough timings.
+- **Audience and takeaways:** who the session is for and the 2–3 things they'll leave with.
+- **Projects:** the open source projects involved, with links.
+- **Logistics:** whether you need a travel stipend, and anything attendees should bring.
+
+### How proposals are reviewed
+
+Several organizers read and score each proposal. Every submitter, whether accepted or not, receives the reviewers' written comments with our decision. Accepted speakers get a short follow-up form to confirm their final title, abstract, bio, and recording consent for the public program.
 
 ## More to come
 
