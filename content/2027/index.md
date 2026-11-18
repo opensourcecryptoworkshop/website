@@ -1,6 +1,6 @@
 +++
 title = "OSCW 2027: Seattle, WA, USA"
-description = "OSCW 2027 will take place 9 April 2027"
+description = "OSCW 2027 will take place on 9 April 2027"
 weight = 46
 +++
 
