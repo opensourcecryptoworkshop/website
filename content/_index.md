@@ -13,7 +13,7 @@ The Open Source Cryptography Workshop (OSCW) brings together practitioners inter
 - best practices for designing clean-sheet crypto systems with modern primitives.
 
 # Upcoming
-- [OSCW 2027](/2027)
+- [OSCW 2027](/2027): Friday, 9 April 2027, in Seattle, WA, USA, as an affiliated event of [Real World Crypto](https://rwc.iacr.org/2027/)
 
 # Past
 - [OSCW 2026](/2026)
