@@ -6,7 +6,7 @@
 */ -}}
 {{- $page := .Page }}
 {{- $year := .Get "year" | default (path.Base (path.Clean $page.File.Dir)) }}
-{{- $sessions := index hugo.Data $year "sessions" }}
+{{- $sessions := index site.Data $year "sessions" }}
 {{- if not $sessions }}
   {{- errorf "schedule: no data/%s/sessions.yaml found for %q" $year $page.File.Path }}
 {{- end }}
