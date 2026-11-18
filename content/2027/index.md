@@ -1,10 +1,10 @@
 +++
 title = "OSCW 2027: Seattle, WA, USA"
-description = "OSCW 2027 will take place on dates adjacent to RWC 2027"
+description = "OSCW 2027 will take place on 9 April 2027"
 weight = 46
 +++
 
-OSCW 2027 will take place coincidentally with [Real World Crypto](https://rwc.iacr.org/2027/) on a to-be-announced date in 2027 in Seattle, WA, USA.
+OSCW 2027 will take place after [Real World Crypto](https://rwc.iacr.org/2027/) as an [affiliated event](https://rwc.iacr.org/2027/affiliated.php) on Friday, 9 April 2027, at the RWC 2027 venue in Seattle, WA, USA.
 
 ## Call for Proposals
 
@@ -14,7 +14,9 @@ Sessions are offered in three lengths: **20 minutes** (with 5 minutes Q&A), **35
 
 We plan to record sessions and release recordings under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license, subject to speaker consent.
 
-More details to be announced.
+**Submission form and deadline: to be announced.**
+
+See the [Submission Guidance](/submission-guidance/) for what a proposal should include and how proposals are reviewed.
 
 ## More to come
 
@@ -22,7 +24,11 @@ More information to be announced.
 
 ## Organizers
 
-TBD
+- Anastasiia Turenko, *Google*
+- Anna Weine, *Mozilla*
+- Fernando Lobato Meeser, *Google*
+- Ioana Nedelcu, *Google*
+- [J.C. Jones](https://insufficient.coffee/about/), *Internet Security Research Group*
 
 ## Code of Conduct
 
@@ -30,4 +36,4 @@ All participants are expected to adhere to our [Community Guidelines](https://de
 
 ## Sponsors
 
-TBD
+TBA
