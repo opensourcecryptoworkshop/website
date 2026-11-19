@@ -18,6 +18,10 @@ We plan to record sessions and release recordings under the [CC BY-NC-ND 4.0](ht
 
 See the [Submission Guidance](/submission-guidance/) for what a proposal should include and how proposals are reviewed.
 
+## Registration
+
+Since OSCW is an affiliated event of RWC, attendees will register for this workshop via the IACR's [RWC 2027 registration](https://rwc.iacr.org/2027/registration.php). As in past years, it should be possible to register _only_ for OSCW without registering for RWC. Registration details will be announced when IACR opens registration.
+
 ## More to come
 
 More information to be announced.
